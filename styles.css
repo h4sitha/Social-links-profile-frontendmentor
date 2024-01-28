@@ -42,3 +42,12 @@ main {
 h2 {
     color: hsl(75, 94%, 57%);
 }
+
+img {
+    border-radius: 50%;
+    width: 120px;
+}
+
+/* * {
+    border: 1px solid green;
+} */
