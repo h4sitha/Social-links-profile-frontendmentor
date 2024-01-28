@@ -30,6 +30,8 @@ h1, h2 {
 
 button {
     font-family: inherit;
+    display: block;
+    width: 100%;
 }
 
 main {
