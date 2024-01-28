@@ -23,6 +23,9 @@ body {
 
 main {
     background-color: hsl(0, 0%, 12%);
+    width: 90%;
+    margin: auto;
+    max-width: 400px;
 }
 
 h2 {
