@@ -15,3 +15,16 @@
     src: url(./assets/fonts/static/Inter-Bold.ttf);
     font-weight: 700;
 }
+
+body {
+    background-color: hsl(0, 0%, 8%);
+    color: hsl(0, 0%, 100%);
+}
+
+main {
+    background-color: hsl(0, 0%, 12%);
+}
+
+h2 {
+    color: hsl(75, 94%, 57%);
+}
