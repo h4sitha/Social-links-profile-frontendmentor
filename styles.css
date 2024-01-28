@@ -16,6 +16,10 @@
     font-weight: 700;
 }
 
+html {
+    font-size: 14px;
+}
+
 body {
     background-color: hsl(0, 0%, 8%);
     color: hsl(0, 0%, 100%);
@@ -26,6 +30,10 @@ body {
 
 h1, h2 {
     font-weight: 600;
+}
+
+h2, p {
+    font-size: 1.18rem;
 }
 
 button {
