@@ -59,7 +59,7 @@ button {
 }
 
 button:not(:last-of-type) {
-    margin-bottom: 20px;
+    margin-bottom: 15px;
 }
 
 main {
@@ -67,15 +67,21 @@ main {
     width: 90%;
     margin: auto;
     max-width: 400px;
-    padding: 45px;
+    padding: 40px;
     border-radius: 15px;
 }
 
 h2 {
     color: hsl(75, 94%, 57%);
+    margin-top: -5px;
+}
+
+p {
+    margin: 27px 0 25px 0;
 }
 
 img {
     border-radius: 50%;
     width: 95px;
+    margin: -5px 0 5px 0;
 }
